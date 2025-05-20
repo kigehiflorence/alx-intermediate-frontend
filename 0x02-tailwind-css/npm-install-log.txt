@@ -1,0 +1,24 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@10.9.2
+npm info using node@v22.15.1
+npm verbose title npm install
+npm verbose argv "install" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\Florence Kigehi\AppData\Local\npm-cache\_logs\2025-05-20T06_20_33_405Z-
+npm verbose logfile C:\Users\Florence Kigehi\AppData\Local\npm-cache\_logs\2025-05-20T06_20_33_405Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/lodash 994ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tailwindcss 689ms (cache miss)
+npm http cache tailwindcss@https://registry.npmjs.org/tailwindcss/-/tailwindcss-4.1.7.tgz 0ms (cache hit)
+npm http cache lodash@https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz 0ms (cache hit)
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 610ms
+npm http fetch GET 200 https://registry.npmjs.org/tailwindcss/-/tailwindcss-4.1.7.tgz 784ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz 3208ms (cache miss)
+
+added 2 packages, and audited 3 packages in 6s
+
+found 0 vulnerabilities
+npm verbose cwd C:\Users\Florence Kigehi\alx-intermediate-frontend\0x02-tailwind-css
+npm verbose os Windows_NT 10.0.22621
+npm verbose node v22.15.1
+npm verbose npm  v10.9.2
+npm verbose exit 0
+npm info ok
